@@ -1,5 +1,5 @@
 ## Code 201 Reading Notes
-
+##### *personal notes and questions in italics*
 - [class-01](class-01.md)
 - class-02
 - class-03
@@ -15,3 +15,5 @@
 - class-13
 - class-14
 - class-15
+
+###### __man, they really meant it when they said a lot of reading__
