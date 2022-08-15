@@ -1,5 +1,7 @@
 ###### class-01 reading notes
 
+This reading represents the foundation of our learning in this course. The basic concepts of web development (and just straight up the web) are introduced here.
+
 ## *Getting Started*
 
 __Compose a short poem describing how HTTP sends data between computers.__
