@@ -1,7 +1,7 @@
 ## Code 201 Reading Notes
 ##### *personal notes and questions in italics*
-- [class-01](class-01.md)
-- class-02
+- [class-01](code-201/class-01.md)
+- [class-02](code-201/class-02.md)
 - class-03
 - class-04
 - class-05
