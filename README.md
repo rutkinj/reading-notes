@@ -5,7 +5,7 @@
 - [class-01](code-201/class-01.md)
 - [class-02](code-201/class-02.md)
 - [class-03](code-201/class-03.md)
-- class-04
+- [class-04](code-201/class-04.md)
 - class-05
 - class-06
 - class-07
