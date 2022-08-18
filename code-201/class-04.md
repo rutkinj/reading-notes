@@ -52,7 +52,10 @@ Continued learning about webpage structuring. Linking is simple but absolutely e
     ```
 
 1. What is the difference between a parameter and an argument?
-    - from the reading, it seems like difference is in spelling only. they are the same.
+    <!-- - from the reading, it seems like difference is in spelling only. they are the same. -->
+    - a parameter is the variable on function declaration
+    - an argument is the variable passed in on function call to satisfy the parameter
+    - two sides of the same coin
 
 ### Miscellaneous
 
