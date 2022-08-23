@@ -1,10 +1,10 @@
-###### class-06 reading
+###### class-06 reading notes
 
 JS still blossoming, we continue to learn how to make more and more complicated structures to improve our code. AND JS is converging with our webdev learning, through the DOM. Excited to see where we go with this stuff.
 
 ## Reading
 
-[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics){:target="_blank"}
+[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 1. How would you describe an object to a non-technical friend you grew up with?
     - so, in programming, an object is basically a representation of a thing. If you were turning a dog into an object it would have some attributes like name, age, color, favorite-toy, and an isGoodDog boolean. It would also have some functions it could perform like sit, stay, roll-over and bark. You can use this dog object to represent any dog you want!
@@ -34,7 +34,7 @@ const dog = {
 
     -`this` refers to `this particular incarnation of this object template`
 
-[Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction){:target="_blank"}
+[Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 1. What is the DOM?
     - Document Object Model
@@ -47,7 +47,7 @@ const dog = {
 
 [Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming){:target=”_blank”}
 
-[What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b){:target="_blank"}
+[What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 ### I want to know more about
 
