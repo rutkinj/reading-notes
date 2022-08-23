@@ -18,6 +18,7 @@ JS still blossoming, we continue to learn how to make more and more complicated 
     - an array is an object itself?
 1. Give an example for when you would need to use bracket notation to access an object's property instead of dot notation.
     - if that particular object property was created at runtime then it would be inaccesable with dot notation
+    - you can pass an expression into bracket notation.
 1. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
 
 ```js
