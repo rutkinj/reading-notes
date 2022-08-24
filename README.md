@@ -10,7 +10,7 @@
 - [class-06](code-201/class-06.md)
 - [class-07](code-201/class-07.md)
 - [class-08](code-201/class-08.md)
-- class-09
+- [class-09](code-201/class-09.md)
 - class-10
 - class-11
 - class-12
