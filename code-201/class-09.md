@@ -47,4 +47,5 @@ This reading is all about adding interactivity to our webpages. What's a webpage
 
 ## I want to know more about
 
+- I want to figure out how to implement a simple search function as a form.
 - bubbling and capturing: what is the purpose of this? maybe I missed something.
