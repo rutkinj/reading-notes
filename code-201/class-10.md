@@ -1,6 +1,7 @@
 ###### class-10 reading notes
 
-I'm not sure why we're learning this one as you don't have to worry about bugs if you've got 1337 h4x. 
+I'm not sure why we're learning this one as you don't have to worry about bugs if you've got 1337 h4x...
+Today I spent as long as it took me to implement a feature, debugging that same feature.
 
 ## Reading
 
