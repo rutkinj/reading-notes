@@ -4,7 +4,7 @@ Grid seems like it will be a big deal. I think my basic frustration with flex bo
 
 ## Reading
 
-[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content){:target="_blank"}
+[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.
     - sounds like it's kind of gone in a circle. It started with plugins like flash, moved to the internal HTML tag `<video>`, and now we're back to external with embedded videos hosted on sites like youtube.
@@ -16,7 +16,7 @@ Grid seems like it will be a big deal. I think my basic frustration with flex bo
 1. Write a very short story where `<audio>` and `<video>` are characters.
     - One day, little video was at their grandparents house. Grandpa audio got a hold of video and started blabbin'. "Back in my day," he says, "we didn't have no fancy movin' pictures! Just a play button, same as you, and some sounds, same as you, but ain't no pictures a-wavin' and a flickerin!" While Grandpa audio blabbed on, fully occupied, little video lowered his volume.
 
-[A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/){:target="_blank"}
+[A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 1. How does Grid layout differ from Flex?
     - where flex is for a single dimension, flex can handle two!
@@ -25,7 +25,7 @@ Grid seems like it will be a big deal. I think my basic frustration with flex bo
     - grid item is a child of the grid container, it looks like they are generic and hold other items which contain content
     - grid lines are the lines that make up the grid, divide area where content lies.
 
-[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images){:target="_blank"}
+[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
     - conserve user bandwidth.
@@ -38,7 +38,7 @@ Grid seems like it will be a big deal. I think my basic frustration with flex bo
 <!-- NOTE: "Videos" may not be relevant for every class. Omit this section or any of the sections below if you don't have anything for your students here -->
 <!-- ## Videos -->
 
-<!-- [Name of Video](https://linktovideohere){:target="_blank"} -->
+<!-- [Name of Video](https://linktovideohere) -->
 
 <!-- Mix it up! Create the questions with pointed answers, fill in the blank, or opinion/open ended -->
 <!-- 1. Question 1
@@ -47,11 +47,11 @@ Grid seems like it will be a big deal. I think my basic frustration with flex bo
 
 ## Bookmark and Review
 
-[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML){:target="_blank"}
+[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 > This article is review from Class 05.
 
-[Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies){:target="_blank"}
+[Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 ## Things to learn more about:
 

@@ -4,7 +4,7 @@ We're moving in a new direction. Sort of. Last week we were working with data an
 
 ## Reading
 
-[JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/){:target="_blank"}
+[JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
 1. What does the `<canvas>` allow a developer to acheive?
     - 2d drawings made with Js
@@ -14,7 +14,7 @@ We're moving in a new direction. Sort of. Last week we were working with data an
     - takes in an argument to determine context(2d is given ex, so maybe there is 3d too?)
     - returns an object that can be used to call draw methods to make lines and boxes, things like that
 
-[Chart.js Documentation](http://www.chartjs.org/docs/){:target="_blank"}:
+[Chart.js Documentation](http://www.chartjs.org/docs/):
 
 1. What is Chart.js and how it can be brought into your project?
     - so i'm not certain of the correct term but I would call it a package.
@@ -25,7 +25,7 @@ We're moving in a new direction. Sort of. Last week we were working with data an
     - line chart, ultra classic
     - radar chart, video games? github?
 
-[Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/){:target="_blank"}
+[Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 1. What are some advantages to displaying data via a chart over a table?
     - readability, a chart visualizes data in a way normal people can't do by looking at a table
@@ -36,7 +36,7 @@ We're moving in a new direction. Sort of. Last week we were working with data an
 <!-- NOTE: "Videos" may not be relevant for every class. Omit this section or any of the sections below if you don't have anything for your students here -->
 <!-- ## Videos -->
 
-<!-- [Name of Video](https://linktovideohere){:target="_blank"} -->
+<!-- [Name of Video](https://linktovideohere) -->
 
 <!-- Mix it up! Create the questions with pointed answers, fill in the blank, or opinion/open ended -->
 <!-- 1. Question 1
@@ -45,11 +45,11 @@ We're moving in a new direction. Sort of. Last week we were working with data an
 
 ## Bookmark and Review
 
-[Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes){:target="_blank"}
+[Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
-[Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors){:target="_blank"}
+[Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
-[Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text){:target="_blank"}
+[Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 ## Want to know more about
 
