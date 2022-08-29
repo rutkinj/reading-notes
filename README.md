@@ -12,8 +12,8 @@
 - [class-08](code-201/class-08.md)
 - [class-09](code-201/class-09.md)
 - [class-10](code-201/class-10.md)
-- class-11
-- class-12
+- [class-11](code-201/class-11.md)
+- [class-12](code-201/class-12.md)
 - class-13
 - class-14
 - class-15
