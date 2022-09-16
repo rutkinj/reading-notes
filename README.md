@@ -1,6 +1,7 @@
 # Code 201 Reading Notes
 
-##### *personal notes and questions in italics*
+
+## Code 201 - Foundations of Software Development
 
 - [class-01](code-201/class-01.md)
 - [class-02](code-201/class-02.md)
@@ -18,4 +19,6 @@
 - class-14
 - class-15
 
-###### __man, they really meant it when they said a lot of reading__
+## Code 301 - Intermediate Software Development
+
+- class-01
