@@ -39,3 +39,8 @@
 ## Code 401 - Java
 
 ### Prework
+
+#### SQL
+
+- [SQL Notes](/prework-SQL.md)
+- [SQL Screenshots](/prework-SQL-screenshot-dump.md)

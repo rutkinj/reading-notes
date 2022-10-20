@@ -1,0 +1,15 @@
+# sql excercises
+
+[To actual SQL Notes](/prework-SQL.md)
+![this was a screenshot](/img/SQL/1.png)
+![this was a screenshot](/img/SQL/2.png)
+![this was a screenshot](/img/SQL/3.png)
+![this was a screenshot](/img/SQL/4.png)
+![this was a screenshot](/img/SQL/5.png)
+![this was a screenshot](/img/SQL/6.png)
+![this was a screenshot](/img/SQL/14.png)
+![this was a screenshot](/img/SQL/15.png)
+![this was a screenshot](/img/SQL/16.png)
+![this was a screenshot](/img/SQL/17.png)
+![this was a screenshot](/img/SQL/18.png)
+[To actual SQL Notes](/prework-SQL.md)
